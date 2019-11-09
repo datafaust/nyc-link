@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nyc-link/static/css/main.bbc8c6f8.chunk.css",
+    "main.css": "/nyc-link/static/css/main.7d0582ef.chunk.css",
     "main.js": "/nyc-link/static/js/main.e501b412.chunk.js",
     "main.js.map": "/nyc-link/static/js/main.e501b412.chunk.js.map",
     "runtime-main.js": "/nyc-link/static/js/runtime-main.873cd7a2.js",
@@ -9,16 +9,16 @@
     "static/js/2.44f20266.chunk.js": "/nyc-link/static/js/2.44f20266.chunk.js",
     "static/js/2.44f20266.chunk.js.map": "/nyc-link/static/js/2.44f20266.chunk.js.map",
     "index.html": "/nyc-link/index.html",
-    "precache-manifest.97cd825de6b26b41afa0c92b4b0abc2a.js": "/nyc-link/precache-manifest.97cd825de6b26b41afa0c92b4b0abc2a.js",
+    "precache-manifest.a7773629dcc85251647a2955069b194a.js": "/nyc-link/precache-manifest.a7773629dcc85251647a2955069b194a.js",
     "service-worker.js": "/nyc-link/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/nyc-link/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.bbc8c6f8.chunk.css.map": "/nyc-link/static/css/main.bbc8c6f8.chunk.css.map"
+    "static/css/main.7d0582ef.chunk.css.map": "/nyc-link/static/css/main.7d0582ef.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.873cd7a2.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.44f20266.chunk.js",
-    "static/css/main.bbc8c6f8.chunk.css",
+    "static/css/main.7d0582ef.chunk.css",
     "static/js/main.e501b412.chunk.js"
   ]
 }
